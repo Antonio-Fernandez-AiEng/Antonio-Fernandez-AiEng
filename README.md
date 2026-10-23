@@ -1,5 +1,5 @@
 # Hi there! I'm Antonio Fernández 👋 
-## AI Engineer | Multimodal RAG & MLOps Specialist
+## AI Engineer | Multimodal RAG & MLOps 
 
 Passionate about designing and deploying scalable, production-ready AI solutions. I specialize in building **Multimodal RAG systems** (video, image, text) with efficient architectures and clean MLOps practices.
 
