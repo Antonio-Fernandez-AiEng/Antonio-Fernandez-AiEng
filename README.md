@@ -1,43 +1,66 @@
-# Antonio Fernandez | AI Application Engineer 🤖
+# Hi there! I'm Antonio Fernández 👋 
+## AI Engineer | Multimodal RAG & MLOps Specialist
 
-¡Hola! Soy Desarrollador de Software enfocado en la **integración, orquestación y optimización de modelos de Inteligencia Artificial** en aplicaciones web escalables.
-
-Me especializo en construir soluciones de IA backend utilizando arquitecturas híbridas (LLMs locales y en la nube), pipelines de RAG y agentes autónomos containerizados.
-
----
-
-## 🛠️ Stack Tecnológico
-
-* **Core & Backend:** Python, FastAPI, Pydantic, Uvicorn, AsyncIO
-* **Integración de IA & LLMs:** LangChain, LlamaIndex, Ollama (Local), Google Gemini API (Cloud)
-* **Embeddings & VectorDBs:** Nomic Embed, ChromaDB, Posgres & pgvector
-* **Infraestructura & DevOps:** Docker, Docker Compose, Git, GitHub Actions, Linux (Ubuntu)
+Passionate about designing and deploying scalable, production-ready AI solutions. I specialize in building **Multimodal RAG systems** (video, image, text) with efficient architectures and clean MLOps practices.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 1. 📄 [RAG Document Intelligence API](https://github.com/TU_USUARIO/rag-document-api)
-> API REST para búsqueda semántica y procesamiento de documentos usando IA.
-* **Tech:** FastAPI, Ollama (`nomic-embed-text`), ChromaDB, Gemini 1.5 Flash, Docker.
-* **Puntos clave:** Generación de embeddings locales, almacenamiento vectorial e inferencia híbrida para optimizar costos y velocidad.
-
-### 2. 🛠️ [Autonomous Tool-Calling Agent](https://github.com/TU_USUARIO/ai-tool-agent)
-> Agente conversacional backend capaz de ejecutar código Python y consultar bases de datos externas.
-* **Tech:** FastAPI, LangChain, Qwen2.5-Coder, Pydantic.
-* **Puntos clave:** Respuestas con salida estructurada (JSON) y aislamiento de ejecución.
-
-### 3. 🔄 [AI Gateway & Fallback Proxy](https://github.com/TU_USUARIO/ai-llm-proxy)
-> Microservicio de enrutamiento inteligente para modelos de lenguaje.
-* **Tech:** Python, FastAPI, LiteLLM, Ollama, Google AI Studio.
-* **Puntos clave:** Conmutación por error (*fallback*) automática de modelos locales a la nube para garantizar alta disponibilidad.
+### 📽️ [shotlist-video-rag](https://github.com/Antonio-Fernandez-AiEng/shotlist-video-rag)
+> **Multimodal Video Semantic Search Engine**
+> An end-to-end RAG application designed to index and retrieve specific video scenes using visual embeddings (**SigLIP / Open-CLIP**), **ChromaDB**, **FastAPI**, and optimized **Docker** containerization.
 
 ---
 
-## 📈 Entorno de Desarrollo Local
-Desarrollo y pruebo mis sistemas con un entorno contenedorizado en **Ubuntu**, aprovechando modelos locales (`Qwen2.5-Coder`) para autocompletado y pruebas locales de baja latencia, integrados directamente con **VS Code** y **Docker**.
+## 🛠️ Tech Stack & Tools
+
+### AI & Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### MLOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-📫 **Contacto & Redes:**  
-[LinkedIn](https://linkedin.com/in/TU_PERFIL) | [Email](mailto:tuemail@ejemplo.com) | [Portfolio Web](https://tu-sitio.com)
+## 🎯 Technical Focus
+* 🖼️ **Multimodal RAG & Computer Vision:** Cross-modal search (text-to-image/video) and embedding space optimization.
+* 🐳 **MLOps & Containerization:** Deploying heavy AI workloads into lightweight, reproducible containers.
+* ⚡ **High-Performance Backends:** Designing low-latency API architectures for real-time inference.
+# Hi, I'm Antonio Fernández 👋
+
+I am an **AI Engineer** focusing on multimodal systems, video processing, and search architectures.
+
+Coming from a background in **Physics** and professional experience in **Filmmaking, VFX & 3D art**, I bring together technical rigor, video/3D pipelines, and modern approaches to AI integration into existing pipelines.
+
+---
+
+### 🛠️ Featured Project
+
+* 📽️ **[shotlist-video-rag](https://github.com/Antonio-Fernandez-AiEng/shotlist-video-rag):** Video semantic search engine built with FastAPI, ChromaDB, Open-CLIP/SigLIP embeddings, and Docker.
+
+---
+
+### 🧰 Tech Stack & Background
+
+* **AI & Backend:** Python, FastAPI, PyTorch, ChromaDB, SQLite
+* **DevOps & Infrastructure:** Docker, Git, Linux
+* **Domain Expertise:** VFX, 3D Pipelines, Filmmaking
+
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/antonio-marchante
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-marchante
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antonio-Fernandez-AiEng)
