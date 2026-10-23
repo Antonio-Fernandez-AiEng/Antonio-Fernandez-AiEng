@@ -33,34 +33,3 @@ Passionate about designing and deploying scalable, production-ready AI solutions
 * 🖼️ **Multimodal RAG & Computer Vision:** Cross-modal search (text-to-image/video) and embedding space optimization.
 * 🐳 **MLOps & Containerization:** Deploying heavy AI workloads into lightweight, reproducible containers.
 * ⚡ **High-Performance Backends:** Designing low-latency API architectures for real-time inference.
-# Hi, I'm Antonio Fernández 👋
-
-I am an **AI Engineer** focusing on multimodal systems, video processing, and search architectures.
-
-Coming from a background in **Physics** and professional experience in **Filmmaking, VFX & 3D art**, I bring together technical rigor, video/3D pipelines, and modern approaches to AI integration into existing pipelines.
-
----
-
-### 🛠️ Featured Project
-
-* 📽️ **[shotlist-video-rag](https://github.com/Antonio-Fernandez-AiEng/shotlist-video-rag):** Video semantic search engine built with FastAPI, ChromaDB, Open-CLIP/SigLIP embeddings, and Docker.
-
----
-
-### 🧰 Tech Stack & Background
-
-* **AI & Backend:** Python, FastAPI, PyTorch, ChromaDB, SQLite
-* **DevOps & Infrastructure:** Docker, Git, Linux
-* **Domain Expertise:** VFX, 3D Pipelines, Filmmaking
-
----
-
-### 📫 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/antonio-marchante
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-marchante
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antonio-Fernandez-AiEng)
